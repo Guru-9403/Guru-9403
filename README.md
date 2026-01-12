@@ -65,4 +65,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Guru-9403&theme=calm&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Guru-9403&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
