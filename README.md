@@ -1,5 +1,9 @@
 ## Hi there I am GURUPRASATH K....👋
 
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 # 💫 About Me:
 🔭 I’m currently Actively seeking new opportunities.<br><br>🌱 I’m currently learning Java.. ...<br><br>👨‍💻 All of my projects are available at https://guruportfolio7777.netlify.app/<br><br>📫 How to reach me ** mailto:jdguru7777@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1Tz572AvVXYYr9lUy6z1c63U9FGFn8D6_/view
 
@@ -66,8 +70,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Guru-9403&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
