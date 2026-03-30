@@ -5,7 +5,7 @@
 </div>
 
 # 💫 About Me:
-🔭 I’m currently Actively seeking new opportunities.<br><br>🌱 I’m currently learning Java.. ...<br><br>👨‍💻 All of my projects are available at https://guru-9403.github.io/Guru-Portfolio/<br><br>👨‍💻 All of my projects are available at https://guruportfolio7777.netlify.app/<br><br>📫 How to reach me ** mailto:jdguru7777@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1Tz572AvVXYYr9lUy6z1c63U9FGFn8D6_/view
+🔭 I’m currently Actively seeking new opportunities.<br><br>🌱 I’m currently learning Java.. ...<br><br>👨‍💻 All of my projects are available at https://guru-9403.github.io/Guru-Portfolio/<br><br>👨‍💻  portfolio are available at https://guruportfolio7777.netlify.app/<br><br>📫 How to reach me ** mailto:jdguru7777@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1Tz572AvVXYYr9lUy6z1c63U9FGFn8D6_/view
 
 
 ## 🌐 Socials:
