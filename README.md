@@ -7,7 +7,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Guru-9403.Guru-9403&left_color=black&right_color=black"/>
 </p>
 # 💫 About Me:
-🔭 I’m currently Actively seeking new opportunities.<br><br>🌱 I’m currently learning Java.. ...<br><br>👨‍💻 All of my projects are available at https://guru-9403.github.io/Guru-Portfolio/<br><br>📫 How to reach me ** mailto:jdguru7777@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1Tz572AvVXYYr9lUy6z1c63U9FGFn8D6_/view
+🔭 I’m currently Actively seeking new opportunities.<br><br>🌱 I’m currently learning Java.. ...<br><br>👨‍💻 All of my projects are available at https://guru-9403.github.io/Guru-Portfolio/<br><br>📫 How to reach me- mailto:jdguru7777@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1Tz572AvVXYYr9lUy6z1c63U9FGFn8D6_/view
 
 
 ## 🌐 Socials:
