@@ -65,8 +65,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div>
+  
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Guru-9403&theme=calm&hide_border=false&include_all_commits=true&count_private=true)<br/>
