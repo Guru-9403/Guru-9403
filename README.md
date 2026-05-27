@@ -51,17 +51,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
   <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Guru-9403&theme=calm&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Guru-9403&theme=calm&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Guru-9403&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+    logo_position: "top-right"
+    palette: "auto"
+    animation_duration: "8"
