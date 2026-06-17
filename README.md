@@ -9,7 +9,7 @@
 # 💫 About Me:
 🔭 I’m currently Actively seeking new opportunities.<br><br>I’m currently learning Java.. ...<br><br>All of my projects are available at ( https://guru-9403.github.io/Guru-Portfolio/)<br><br>📫 How to reach me <a href="mailto:jdguru7777@gmail.com">
   jdguru7777@gmail.com
-</a><br><br>📄 Know about my experiences https://drive.google.com/file/d/1Tz572AvVXYYr9lUy6z1c63U9FGFn8D6_/view
+</a><br><br>📄 Know about my experience https://drive.google.com/file/d/1Tz572AvVXYYr9lUy6z1c63U9FGFn8D6_/view
 
 
 ## 🌐 Socials:
