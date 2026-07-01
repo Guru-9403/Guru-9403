@@ -18,13 +18,13 @@
 
 ## Live Projects
 
-1.cake shop - 
-2.cake shop -
-3.FLAMES app -
-4.TaskManager -
-5.Ug project Enhanced -
-6.web games -
-7.Ai Resume Builder -
+1.cake shop - https://yaracakes3.netlify.app/
+2.cake shop2 - https://cmcakescbe.netlify.app/
+3.FLAMES app - https://flameswithfun.netlify.app/
+4.TaskManager - https://taskmanager9403.netlify.app/
+5.Ug project Enhanced -https://evacantparking.netlify.app/
+6.web games - https://spacexsurvivor.netlify.app/
+7.Ai Resume Builder -https://airesumebuilder9403.netlify.app/
 
 
 
