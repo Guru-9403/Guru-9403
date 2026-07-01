@@ -15,6 +15,19 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/im__guru__12/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/guruprasath-k-a275442a4/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jdguru7777@gmail.com) 
 
+
+## Live Projects
+
+1.cake shop - 
+2.cake shop -
+3.FLAMES app -
+4.TaskManager -
+5.Ug project Enhanced -
+6.web games -
+7.Ai Resume Builder -
+
+
+
 # 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
