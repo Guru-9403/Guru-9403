@@ -65,5 +65,3 @@
   <img width="12" /><br><br>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Guru-9403&" alt="bala-6478" /></p>
 
-<br><br>
-<img width="880" height="192" alt="github-contribution-grid-snake-dark (1)" src="https://github.com/user-attachments/assets/c836f52e-35cb-4df9-bb98-138d5f9a0ff7" />
