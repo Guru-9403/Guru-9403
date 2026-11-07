@@ -63,5 +63,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
   <img width="12" /><br><br>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Guru-9403&" alt="bala-6478" /></p>
+
 
